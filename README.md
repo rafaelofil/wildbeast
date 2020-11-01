@@ -26,7 +26,7 @@ $ git clone https://github.com/rafaelofil/wildbeast.git
 
 Or you can acess the link and check the website:
 
-https://rafaelofil.github.io/Word-Frequency/
+https://rafaelofil.github.io/wildbeast/
 
 ## Status
 
