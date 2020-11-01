@@ -185,6 +185,41 @@ p {
   top: 2px;
 }
 
+.spotlight {
+  font-size: 0.875em;
+  color: #b07dfb;
+  max-width: 256px;
+}
+
+.quote,
+.attributes {
+  align-self: start;
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px 0px rgba(44, 44, 44, 0.15);
+  background: linear-gradient(135deg, #8844ee, #b07dfb);
+}
+
+.quote p {
+  font-size: 1.5em;
+  font-style: italic;
+  text-align: center;
+  color: white;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.attributes li {
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.125em;
+  padding: 15px;
+}
+
+.attributes li + li {
+  border-top: 2px solid #b07dfb;
+}
+
 /* Advertise */
 
 .advertise {
