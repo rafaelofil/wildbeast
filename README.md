@@ -8,7 +8,7 @@
 
 ## General Info
 
-Website create in the cousr origamid to apply concepts about css grid layout.
+Website create in the course origamid to apply concepts about css grid layout.
 
 ## Technologies
 
